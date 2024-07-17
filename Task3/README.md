@@ -14,4 +14,4 @@ paimeng压缩包里面存放着vits相关文件
 项目运行教程：
 
 项目需要在设置部分，将解压的paimeng文件夹的本地地址填入此处。然后才可以正常运行.
-![image]([https://github.com/Metastarx/ZJU/tree/main/Task3/image.jpg](https://img.picui.cn/free/2024/07/17/669791c6b2308.jpg))
+![image](https://img.picui.cn/free/2024/07/17/6697927013df8.jpg)
