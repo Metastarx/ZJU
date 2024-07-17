@@ -1,4 +1,5 @@
-项目的下载地址在链接：https://pan.baidu.com/s/1wDMZMiRvqKQh5kNv6wC-YA?pwd=1234 
+项目的下载地址：https://pan.baidu.com/s/1wDMZMiRvqKQh5kNv6wC-YA?pwd=1234 
+项目的展示视频：https://www.bilibili.com/video/BV1TMbieLEtS/?spm_id_from=333.999.0.0&vd_source=89edf7b94a0caf7ed5dc09dd75f96ff3
 
 --------
 
@@ -11,6 +12,6 @@ paimeng压缩包里面存放着vits相关文件
 
 项目运行教程：
 
-项目需要在设置部分，将解压的paimeng压缩包的地址填入此处。然后才可以正常运行。
+项目需要在设置部分，将解压的paimeng文件夹的本地地址填入此处。然后才可以正常运行。
 
 ![alt text](image.png)
