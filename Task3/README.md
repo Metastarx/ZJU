@@ -9,7 +9,7 @@
 下载目录下有GaussianDEMO和paimeng两个压缩包，其中GaussianDEMO压缩包是项目文件，使用虚幻引擎运行，虚幻引擎的版本>=5.1。
 paimeng压缩包里面存放着vits相关文件
 
------
+--------
 
 项目运行教程：
 
